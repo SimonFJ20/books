@@ -1,0 +1,6 @@
+[book]
+authors = ["SimonFJ20"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Books"
